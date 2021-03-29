@@ -8,5 +8,7 @@ This is a very basic example of JavaScript in the backend. It demonstrates:
 To run:
 
 ```bash
+git clone https://github.com/iths-sthm-feu20-effektiv/01-node/
+cd 01-node/
 node index.js
 ```
